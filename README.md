@@ -8,13 +8,14 @@ This series will focus on how to easily add authentication to web apps with zero
 You no longer have to worry about setting up infrastructure for identity, ensuring geo-availability, and confirming compliance regulations. Instead, enhance your apps with advanced security capabilities, such as multifactor authentication (MFA), single sign-on (SSO) and user-defined password policies. You can also use App ID's scalable user registry to let users manage their own accounts.
 
 ## 🎈 Prerequisites:
--- Node package manager installed in your PC (https://nodejs.org/en/)
--- Basic knowledge of Spring Boot, Spring Security and Node.js
--- Maven installed in your PC (https://maven.apache.org/)
--- Java installed in your PC (https://adoptopenjdk.net/releases.html)
--- Sign up or Log in to your IBM Cloud account: https://ibm.biz/appsecurity
 
-🙇Workshops included in the series :
+- Node package manager installed in your PC (https://nodejs.org/en/)
+- Basic knowledge of Spring Boot, Spring Security and Node.js
+- Maven installed in your PC (https://maven.apache.org/)
+- Java installed in your PC (https://adoptopenjdk.net/releases.html)
+- Sign up or Log in to your IBM Cloud account: https://ibm.biz/appsecurity
+
+## 🙇Workshops included in the series :
 
 24th September- 6PM-8PM (GST) 
 - Secure your single page web app with low code on IBM Cloud 
