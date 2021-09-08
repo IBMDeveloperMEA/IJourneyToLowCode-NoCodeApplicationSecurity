@@ -1,1 +1,1 @@
-# IJourneyToLowCode-NoCodeApplicationSecurity
+# JourneyToLowCode-NoCodeApplicationSecurity
