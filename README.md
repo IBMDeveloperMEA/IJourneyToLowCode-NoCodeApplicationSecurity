@@ -1,4 +1,4 @@
-<img width="300" alt="Security series last" src="https://user-images.githubusercontent.com/16270682/132501611-7c5c364d-d2e1-4b95-8089-ee8ac3a8e3ca.png">
+<img width="300" align="center" alt="Security series last" src="https://user-images.githubusercontent.com/16270682/132501611-7c5c364d-d2e1-4b95-8089-ee8ac3a8e3ca.png">
 
 
 # Journey To Low Code/No Code Application Security
