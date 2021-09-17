@@ -33,3 +33,13 @@ You no longer have to worry about setting up infrastructure for identity, ensuri
 - Securely Manage access to your Applications Sensitive Data on IBM Cloud
 - https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-3
 
+## How to get your certificate
+To get your participation certificate email us with the following info:
+
+- First Name
+- Last Name
+- Email ID you used to create your cloud account 
+- Email ID you used to attend the live workshop on crowdcast.  
+![image](https://user-images.githubusercontent.com/16270682/133764551-0fb9eb58-9b05-4a9e-8073-b1df9db1e435.png)
+
+
