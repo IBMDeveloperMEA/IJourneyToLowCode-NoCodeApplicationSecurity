@@ -16,6 +16,7 @@ You no longer have to worry about setting up infrastructure for identity, ensuri
 - Maven installed in your PC (https://maven.apache.org/)
 - Java installed in your PC (https://adoptopenjdk.net/releases.html)
 - Sign up or Log in to your IBM Cloud account: https://ibm.biz/appsecurity
+- To learn how to install node.js in your PC watch this video: https://www.youtube.com/watch?v=__7eOCxJyow
 
 ## 🙇Workshops included in the series :
 
