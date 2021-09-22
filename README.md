@@ -35,14 +35,5 @@ You no longer have to worry about setting up infrastructure for identity, ensuri
 - https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-3
 
 
-## How to get your participation certificate
 
-You will receive your certificate after attending the live wokshops. To get your participation certificate email asna.javed1@ibm.com with the following info:
-
-- First Name
-- Last Name
-- Email ID you used to create your cloud account 
-- Email ID you used to attend the live workshop on crowdcast.  
-
-Certificates will be given within two weeks of end of series.
 
