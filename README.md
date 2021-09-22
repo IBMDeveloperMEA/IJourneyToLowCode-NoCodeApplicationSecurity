@@ -11,6 +11,8 @@ You no longer have to worry about setting up infrastructure for identity, ensuri
 
 ## 🎈 Prerequisites:
 
+#### Note: Pre-requisites are important for workshops, kindly make sure to install them for smooth transition.
+
 - Node package manager installed in your PC (https://nodejs.org/en/)
 - Basic knowledge of Spring Boot, Spring Security and Node.js
 - Maven installed in your PC (https://maven.apache.org/)
