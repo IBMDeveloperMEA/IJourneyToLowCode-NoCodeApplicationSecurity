@@ -22,17 +22,17 @@ You no longer have to worry about setting up infrastructure for identity, ensuri
 
 ## 🙇Workshops included in the series :
 
-### 24th September- 6PM-8PM (GST) 
+### 24th September- 7PM-9PM (GMT+5)
 - Secure your single page web app with low code on IBM Cloud 
 - https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-1
 
 
-### 28th September- 6PM-8PM (GST) 
+### 28th September- 7PM-9PM (GMT+5)
 - Easily Secure your Spring boot app with Low code/No Code
 - https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-2
 
 
-### 30th September- 6PM-8PM (GST) 
+### 30th September- 7PM-9PM (GMT+5)
 - Securely Manage access to your Applications Sensitive Data on IBM Cloud
 - https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-3
 
