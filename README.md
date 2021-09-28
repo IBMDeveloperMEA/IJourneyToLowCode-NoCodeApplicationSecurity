@@ -37,5 +37,12 @@ You no longer have to worry about setting up infrastructure for identity, ensuri
 - https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-3
 
 
+# Series workshop resources 
+
+|Session Name|Speakers|Session Resources|Session Rcording|
+|----|----|----|----|
+|Secure your single page web app with low code on IBM Cloud|[Asna Javed](https://developer.ibm.com/profiles/asna.javed1/), [Divya S](https://developer.ibm.com/profiles/qamar.n/)|[Click here to access session resouces](https://github.com/IBMDeveloperMEA/Secure-your-single-page-web-app-with-low-code-on-IBM-Cloud)|[Click here for recording](https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-1)|
+|Easily Secure your Spring boot app with Low code/No Code|[Karim Deif](https://developer.ibm.com/profiles/karim.deif1/), [Sbusiso Mkhombe](https://developer.ibm.com/profiles/sbusiso.mkhombe/)|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Secure-your-single-page-web-app-with-low-code-on-IBM-Cloud)|[Click here for recording](https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-2)|
+
 
 
