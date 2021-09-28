@@ -22,7 +22,7 @@ You no longer have to worry about setting up infrastructure for identity, ensuri
 
 ## 🙇Workshops included in the series :
 
-### 24th September- 7PM-9PM (GMT+5)
+#### 24th September- 7PM-9PM (GMT+5)
 - Secure your single page web app with low code on IBM Cloud 
 - https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-1
 
