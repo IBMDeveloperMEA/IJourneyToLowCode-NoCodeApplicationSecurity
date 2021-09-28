@@ -27,12 +27,12 @@ You no longer have to worry about setting up infrastructure for identity, ensuri
 - https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-1
 
 
-### 28th September- 7PM-9PM (GMT+5)
+#### 28th September- 7PM-9PM (GMT+5)
 - Easily Secure your Spring boot app with Low code/No Code
 - https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-2
 
 
-### 30th September- 7PM-9PM (GMT+5)
+#### 30th September- 7PM-9PM (GMT+5)
 - Securely Manage access to your Applications Sensitive Data on IBM Cloud
 - https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-3
 
