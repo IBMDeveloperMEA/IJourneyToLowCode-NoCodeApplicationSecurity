@@ -41,8 +41,22 @@ You no longer have to worry about setting up infrastructure for identity, ensuri
 
 |Session Name|Speakers|Session Resources|Session Rcording|
 |----|----|----|----|
-|Secure your single page web app with low code on IBM Cloud|[Asna Javed](https://developer.ibm.com/profiles/asna.javed1/), [Divya S](https://developer.ibm.com/profiles/qamar.n/)|[Click here to access session resouces](https://github.com/IBMDeveloperMEA/Secure-your-single-page-web-app-with-low-code-on-IBM-Cloud)|[Click here for recording](https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-1)|
+|Secure your single page web app with low code on IBM Cloud|[Asna Javed](https://developer.ibm.com/profiles/asna.javed1/), [Divya S]()|[Click here to access session resouces](https://github.com/IBMDeveloperMEA/Secure-your-single-page-web-app-with-low-code-on-IBM-Cloud)|[Click here for recording](https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-1)|
 |Easily Secure your Spring boot app with Low code/No Code|[Karim Deif](https://developer.ibm.com/profiles/karim.deif1/), [Sbusiso Mkhombe](https://developer.ibm.com/profiles/sbusiso.mkhombe/)|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Secure-your-single-page-web-app-with-low-code-on-IBM-Cloud)|[Click here for recording](https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-2)|
+|Securely Manage access to your Applications Sensitive Data on IBM Cloud|[Eren Akbaba](https://developer.ibm.com/profiles/eren.akbaba/), [Asna Javed](https://developer.ibm.com/profiles/asna.javed1/)|[Click here to access session resources](https://github.com/IBMDeveloperMEA/Securely-Manage-access-to-your-Applications-Sensitive-Data-on-IBM-Cloud)|[Click here for recording](https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-3)|
+
+
+
+## How to get your participation certificate
+
+You will receive your certificate after attending the live workshops. To get your participation certificate email asna.javed1@ibm.com with the following info:
+
+- First Name
+- Last Name
+- Email ID you used to create your cloud account 
+- Email ID you used to attend the live workshop on crowdcast.  
+
+Certificates will be given within two weeks of end of series.
 
 
 
